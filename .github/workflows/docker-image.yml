@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"howtocook-mcp": {
+			"command": "node",
+			"args": ["youpath\\howtocook-mcp\\build\\index.js"]
+		}
+	}
+}
